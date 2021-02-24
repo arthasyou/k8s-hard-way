@@ -1,1 +1,2 @@
-# k8s-hard-way
+# k8s hard way
+
